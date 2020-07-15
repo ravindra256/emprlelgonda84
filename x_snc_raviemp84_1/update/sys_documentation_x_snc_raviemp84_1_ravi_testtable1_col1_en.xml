@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="col1" label="Col1" language="en" table="x_snc_raviemp84_1_ravi_testtable1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>col1</element>
+            <help/>
+            <hint/>
+            <label>Col1</label>
+            <language>en</language>
+            <name>x_snc_raviemp84_1_ravi_testtable1</name>
+            <plural>Col1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+            <sys_created_on>2020-07-15 13:30:56</sys_created_on>
+            <sys_id>06033f41db8ad01084b3f3e51d9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Col1</sys_name>
+            <sys_package display_value="raviemp84_1" source="x_snc_raviemp84_1">4db2b741db8ad01084b3f3e51d96193a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="raviemp84_1">4db2b741db8ad01084b3f3e51d96193a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_raviemp84_1_ravi_testtable1_col1_en</sys_update_name>
+            <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+            <sys_updated_on>2020-07-15 13:30:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

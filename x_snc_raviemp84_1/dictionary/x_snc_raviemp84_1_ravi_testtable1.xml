@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ravi_testtable1" max_length="40" name="x_snc_raviemp84_1_ravi_testtable1" type="collection">
+        <element label="col1" max_length="40" name="col1" type="string"/>
+    </element>
+</database>
