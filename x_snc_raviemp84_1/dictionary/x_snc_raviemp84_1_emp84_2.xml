@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="emp84_2" max_length="40" name="x_snc_raviemp84_1_emp84_2" type="collection">
         <element label="Col2 raviuser2" max_length="40" name="col2_raviuser2" type="string"/>
+        <element label="col3 raviuser2" max_length="40" name="col3_raviuser2" type="string"/>
         <element label="Raviuser1 col1 _ raviuser2_ raviuser2" max_length="40" name="raviuser1_col1" type="string"/>
     </element>
 </database>
